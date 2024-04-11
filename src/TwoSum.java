@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Problem2 {
+public class TwoSum {
     public static void main(String[] args) {
         int[] arr = {2,7,11,15};
         int add[] = (twoSum(arr, 9));

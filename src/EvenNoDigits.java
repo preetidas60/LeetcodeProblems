@@ -1,4 +1,4 @@
-public class Problem1 {
+public class EvenNoDigits {
     public static void main(String[] args) {
         int[] arr = {23,34,567,1234};
         System.out.println();

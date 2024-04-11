@@ -1,4 +1,4 @@
-public class Problem3 {
+public class PalindromeNo {
     public static void main(String[] args) {
         int value = 13231;
         System.out.println(isPalindrome(121));
