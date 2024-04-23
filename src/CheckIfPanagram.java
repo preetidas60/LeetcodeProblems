@@ -2,7 +2,7 @@ import java.util.HashSet;
 
 public class CheckIfPanagram {
     public static void main(String[] args) {
-        String name = "acdefghijklmnopqrstuvwxyz";
+        String name = "acdefghijklmnopqrstuvwxyzb";
         System.out.println(checkIfPangram(name));
     }
     static boolean checkIfPangram(String sentence) {
