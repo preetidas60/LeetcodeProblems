@@ -1,4 +1,4 @@
-public class FirstMissingPOsitive {
+public class FirstMissingPositive {
     public static void main(String[] args) {
         int[] arr = {0,2,2,4,0,1,0,1,3};
         System.out.println(firstMissingPositive(arr));
