@@ -6,6 +6,5 @@ public class TrappingRainWater {
         for(int i=0; i<arr.length-1; i++){
             arr[i] = Math.min(arr[i],arr[i+1]);
         }
-        System.out.println(Arrays.toString(arr));
     }
 }
